@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\lel\thisdot\thisdot\bin\Debug\thisdot.exe.config
+C:\Users\usuario\Documents\lel\thisdot\thisdot\obj\Debug\thisdot.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\lel\thisdot\thisdot\bin\Debug\thisdot.exe
+C:\Users\usuario\Documents\lel\thisdot\thisdot\bin\Debug\thisdot.pdb
+C:\Users\usuario\Documents\lel\thisdot\thisdot\obj\Debug\thisdot.exe
+C:\Users\usuario\Documents\lel\thisdot\thisdot\obj\Debug\thisdot.pdb
