@@ -3,3 +3,8 @@
 /Users/gladisarmenta/Dropbox/infochan.github.io/-c#-/Tarea2.7/Tarea2.7/bin/Debug/Tarea2.7.exe
 /Users/gladisarmenta/Dropbox/infochan.github.io/-c#-/Tarea2.7/Tarea2.7/obj/x86/Debug/Tarea2.7.exe
 /Users/gladisarmenta/Dropbox/infochan.github.io/-c#-/Tarea2.7/Tarea2.7/obj/x86/Debug/Tarea2.7.exe.mdb
+/Users/gladisarmenta/Desktop/lel/thisdot/Tarea2.7/Tarea2.7/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gladisarmenta/Desktop/lel/thisdot/Tarea2.7/Tarea2.7/bin/Debug/Tarea2.7.exe.mdb
+/Users/gladisarmenta/Desktop/lel/thisdot/Tarea2.7/Tarea2.7/bin/Debug/Tarea2.7.exe
+/Users/gladisarmenta/Desktop/lel/thisdot/Tarea2.7/Tarea2.7/obj/x86/Debug/Tarea2.7.exe
+/Users/gladisarmenta/Desktop/lel/thisdot/Tarea2.7/Tarea2.7/obj/x86/Debug/Tarea2.7.exe.mdb
